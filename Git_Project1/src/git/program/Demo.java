@@ -12,7 +12,7 @@ public class Demo {
 		
 		System.out.println("Hello Git");
 		
-		Demo1 d =new Demo1();
+	       Demo1 d =new Demo1();
 		d.m1();
 	}
 }
