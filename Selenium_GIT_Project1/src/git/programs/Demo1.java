@@ -7,6 +7,11 @@ public class Demo1 {
 		System.out.println("Hello this is M1");
 	}
 	
+	public void m2()
+	{
+		System.out.println("Hello this is M2");
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println("Hello Git");
